@@ -17,8 +17,8 @@
     }
   ],
   "orientation": "portrait",
-  "name":   "TrippSwap",
-  "short_name":   "TrippSwap",
+  "name": "TrippSwap",
+  "short_name": "TrippSwap",
   "start_url": ".",
   "theme_color": "#ff007a"
 }
